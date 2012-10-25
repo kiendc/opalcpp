@@ -1,0 +1,6 @@
+The multiagent framework uses xmpp protocol as the communication protocal 
+between agents. An implementation of XMPP in C++ is used instead of developing 
+from the scratch. 
+Amongs possibilities, we choose gloox. The full source code and install 
+instruction of gloox can be downloaded from http://camaya.net/gloox/
+The version is used for this version of opalcpp is 1.0
